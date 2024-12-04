@@ -1,2 +1,8 @@
-# forkbench-gui-android-public
-This is a public repository that will contain my progress working on my Native Android Kotlin Mobile application project. System information recovery and hardware benchmarking would be the crux of the project.
+# ForkBench
+![screenshot](resources/forAndroid.png)
+System Information and Benchmark Tool for Windows
+
+## Features: 
+1. System information fetching.
+2. Sensor Information
+3. Benchmarking
