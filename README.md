@@ -15,7 +15,7 @@ The following are some screens from the ForkBench BareBones application
   <img src="resources/poco_f1_barebones.jpg" width="200" />
 
 ## Google Pixel 7
-  <img src="resources/pixel7_real_barebones.jpg" width="200" />
+  <img src="resources/pixel7_real_barebones.png" width="200" />
 
 ## Google Pixel 7 - AVD Emulator
-  <img src="resources/pixel7_emu_barebones.jpg" width="200" />
+  <img src="resources/pixel7_emu_barebones.png" width="200" />
