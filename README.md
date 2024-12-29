@@ -19,3 +19,8 @@ The following are some screens from the ForkBench BareBones application
 
 ## Google Pixel 7 - AVD Emulator
   <img src="resources/pixel7_emu_barebones.png" width="200" />
+
+## Phase - II 
+This phase includes revamping the UI/UX of the app and making it look supererbly asthethic and pleasing to the eye as well as the fluidity and ease of access would be improved along with increase in complexity of all that is happening with the app would increase and will add aditional features.
+
+This Phase is ongoing.
